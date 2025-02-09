@@ -1,3 +1,0 @@
-Changes:
-  ✅ Patched detections.
-  ✅ Revamped the UI's look!
